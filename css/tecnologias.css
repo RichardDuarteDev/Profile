@@ -1,0 +1,32 @@
+.Tecologias {
+    display: flex;
+    justify-content: center; /* Centraliza os ícones no meio */
+    align-items: center;      /* Alinha verticalmente (caso precise) */
+    gap: 20px;                /* Espaçamento entre os ícones */
+    flex-wrap: wrap;          /* Quebra linha se a tela for pequena */
+    margin-top: 20px;
+  }
+  
+  .marca-logo2 {
+    width: 110px;   /* ou ajuste conforme quiser */
+    height: auto;
+    transition: transform 0.3s;
+  }
+
+  .marca-logo3 {
+    width: 200px;   /* ou ajuste conforme quiser */
+    height: auto;
+    transition: transform 0.3s; 
+  }
+
+  .marca-logo2:hover {
+    transform: scale(1.1); /* efeito sutil ao passar o mouse */
+    
+  }
+  
+  
+  .marca-logo3:hover {
+    transform: scale(1.1); /* efeito sutil ao passar o mouse */
+    
+  }
+  

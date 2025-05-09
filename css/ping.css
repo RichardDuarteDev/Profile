@@ -1,0 +1,60 @@
+.Pipeline{
+  color:gold;
+  font-family: "Roboto Slab", "Poppins";
+  font-size: 21px;
+}
+
+.Linx-ColorGold{
+  color:gold;
+  
+}
+
+.pColorPorjeto{
+  font-size: 13px;
+
+  
+
+}
+
+/* ANIMAÇÃO PINGUIM */
+.pinguim-container {
+position: relative;
+width: 100%;
+height: 150px; /* altura menor para acompanhar o pinguim */
+overflow: hidden;
+background-color: transparent; /* Fundo transparente */
+opacity: 0.8; /* Ajuste de opacidade para o pinguim */
+z-index: 1; /* Certifique-se de que o pinguim esteja acima do vídeo */
+  }
+
+
+
+#pinguim {
+  position: absolute;
+  bottom: 0;
+  height: 120px; /* pinguim menor */
+  animation: andar 20s linear infinite;
+  z-index: 2; /* Certifique-se de que o pinguim esteja visível */  
+  
+  
+}
+
+
+@keyframes andar {
+  0% {
+    left: -60px;
+    transform: scaleX(1);
+}
+50% {
+    left: 100%;
+    transform: scaleX(1);
+}
+51% {
+    transform: scaleX(-1); /* virar de lado */
+}
+100% {
+    left: -60px;
+    transform: scaleX(-1); /* voltar andando de ré (espelhado) */
+}
+
+}
