@@ -88,9 +88,9 @@
 }
 
 .item.botao:hover {
-  background-color: #0ca41b;
+  background-color: yellow;
   border-radius: 20px;
-  color: white;
+  color: black;
 }
 
 /* RESPONSIVE */
