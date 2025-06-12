@@ -20,6 +20,8 @@
   width: 220px;
   height: 220px;
   perspective: 1000px;
+  flex: 1 1 220px; /* Largura mínima de cada card */
+  max-width: 240px; /* Largura máxima de cada card */
 }
 
 .flip-card-inner {
@@ -85,7 +87,7 @@
 .card-titulo {
   font-family: "Roboto Slab", "Poppins";
   font-size: 18px;
-  margin-top: -14px;
+  margin-top: -5px;
 }
 
 .card-links {
@@ -109,8 +111,10 @@
 }
 
 .projetos-container {
-  z-index: 0;
-
+  max-width: 1200px;   /* Limite de largura, ajuste como preferir */
+  margin: 0 auto;      /* Centraliza na tela */
+  width: 100%;
+  padding: 0 24px;     /* Espaço nas laterais em telas pequenas */
 }
 
 .projetos-cards {
@@ -122,8 +126,9 @@
 
 .conjunto {
   display: flex;
-  gap: 50px;
-  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 32px; /* Espaço entre os cards, ajuste como quiser */
+  justify-content: center; /* Centraliza os cards */
 }
 
 #secundario {
