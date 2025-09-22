@@ -8,8 +8,7 @@ O site conta com uma interface responsiva e moderna, além de destacar minhas ex
 ---
 
 ## 📸 Demonstração
-🔗 [Acesse o portfólio online](https://github.com/RichardDuarteDev/Profile) *(adicione o link do GitHub Pages ou hospedagem quando disponível)*  
-
+🔗 [Acesse o portfólio online](https://github.com/RichardDuarteDev/Profile) 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
