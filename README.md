@@ -71,9 +71,7 @@ O site conta com uma interface responsiva e moderna, além de destacar minhas ex
 ---
 
 ## 📬 Contato
-📧 E-mail: [richardc.duarte@hotmail.com](mailto:richardc.duarte@hotmail.com)  
 💼 GitHub: [RichardDuarteDev](https://github.com/RichardDuarteDev)  
-📱 WhatsApp: [+55 11 99292-1359](https://api.whatsapp.com/send/?phone=5511992921359)  
 
 ---
 Desenvolvido com 💙 por **Richard Duarte**
