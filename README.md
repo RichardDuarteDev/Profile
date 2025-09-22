@@ -46,20 +46,7 @@ O site conta com uma interface responsiva e moderna, além de destacar minhas ex
  ┗ 📜 README.md
 ```
 
----
 
-## 🚀 Como Executar o Projeto
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd SEU_REPOSITORIO
-   ```
-3. Abra o arquivo `index.html` no navegador.
-
----
 
 ## 📌 Próximos Passos
 - [ ] Adicionar deploy no **GitHub Pages**  
