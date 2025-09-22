@@ -47,15 +47,6 @@ O site conta com uma interface responsiva e moderna, além de destacar minhas ex
 ```
 
 
-
-## 📌 Próximos Passos
-- [ ] Adicionar deploy no **GitHub Pages**  
-- [ ] Melhorar SEO e metatags para melhor indexação  
-- [ ] Criar versão **dark mode**  
-- [ ] Adicionar mais animações com **JavaScript**  
-
----
-
 ## 📬 Contato
 💼 GitHub: [RichardDuarteDev](https://github.com/RichardDuarteDev)  
 
